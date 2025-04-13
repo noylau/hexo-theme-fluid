@@ -30,6 +30,10 @@
     "node": ">=8.10.0"
   },
 
+  "scripts": {
+  "build": "hexo generate"  
+}
+  
   "dependencies": {
     "hexo": "^6.3.0",
     "hexo-theme-fluid": "^1.9.3", 
@@ -37,3 +41,5 @@
     "hexo-renderer-marked": "^5.0.0"
   }
 }
+
+
