@@ -31,8 +31,10 @@
   },
 
   "scripts": {
-  "build": "hexo generate"  
-},
+    "build": "hexo clean && hexo generate",
+    "serve": "hexo server"
+  }
+}
   
   "dependencies": {
     "hexo": "^6.3.0",
