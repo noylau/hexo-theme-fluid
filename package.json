@@ -29,13 +29,10 @@
   "engines": {
     "node": ">=8.10.0"
   },
-  "peerDependencies": {
-    "nunjucks": "^3.0.0"
-  }
-}
-
-{
+  "devDependencies": {
+    "some - dev - dep": "^3.0.0"
+  },
   "dependencies": {
-    "hexo": "^6.3.0"
+    "some - dep": "^2.0.0"
   }
 }
