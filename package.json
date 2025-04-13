@@ -29,7 +29,7 @@
   "engines": {
     "node": ">=8.10.0"
   },
-{
+
   "dependencies": {
     "hexo": "^6.3.0",
     "hexo-theme-fluid": "^1.9.3", 
