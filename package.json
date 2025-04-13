@@ -29,10 +29,11 @@
   "engines": {
     "node": ">=8.10.0"
   },
-  "devDependencies": {
-    "some - dev - dep": "^3.0.0"
-  },
+{
   "dependencies": {
-    "some - dep": "^2.0.0"
+    "hexo": "^6.3.0",
+    "hexo-theme-fluid": "^1.9.3", 
+    "hexo-generator-archive": "^1.0.0",
+    "hexo-renderer-marked": "^5.0.0"
   }
 }
